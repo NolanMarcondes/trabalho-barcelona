@@ -1,4 +1,4 @@
-# 🌆 Site sobre a cidade de Barcelona
+# 🌆 [Site sobre a cidade de Barcelona](https://NolanMarcondes.github.io/trabalho-barcelona/index.html)
 
 Este projeto foi desenvolvido como parte das aulas de desenvolvimento web, com o objetivo de praticar **HTML**, **CSS** e conceitos básicos de **design responsivo**.  
 O site apresenta informações turísticas, culturais e históricas sobre a cidade de **Barcelona**, na Espanha.
